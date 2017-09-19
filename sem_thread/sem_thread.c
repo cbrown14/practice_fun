@@ -1,3 +1,9 @@
+/*  Cameron Brown
+ *  9/19/2017
+ *  Simple program that uses threads and a semaphore to "sell tickets" concurrently.
+ *  Practice using semaphore, threads, and critical sections.
+ */
+
 #include <pthread.h>
 #include <semaphore.h>
 #include <stdio.h>
